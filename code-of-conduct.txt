@@ -1,0 +1,45 @@
+Verhaltenskodex
+
+Zielsetzung
+Das WordCamp Nürnberg hat es sich als ein wichtiges Ziel gesetzt, die größtmögliche Anzahl an Beitragenden mit den vielfältigsten und unterschiedlichsten Hintergründen einzubeziehen. Wir sehen es als unsere Aufgabe, eine freundliche, sichere und einladende Umgebung zu schaffen, unabhängig von Geschlecht, sexueller Orientierung, Befähigung oder Behinderung, Herkunft, Religion (oder deren Nichtvorhandensein), gesellschaftlichem oder wirtschaftlichem Status, bevorzugtem Betriebssystem, Programmiersprache oder Texteditor.
+Dieser Verhaltenskodex umreißt unsere Erwartungen an alle Beteiligten des WordCamp Nürnberg, sowie die Konsequenzen für inakzeptables Verhalten.
+Wir laden alle Sponsoren, Speaker, Volunteers und Teilnehmenden des WordCamp Nürnberg ein, sichere und positive Erfahrungen für alle mitzugestalten.
+
+Open Source Citizenship
+Ein zusätzliches Ziel dieses Verhaltenskodexes ist es, die Open Source Citizenship zu stärken. Insofern ermutigen wir unsere Teilnehmenden, die Beziehungen zwischen Handlungen und deren Auswirkungen auf unsere Community zu erkennen und zu stärken.
+Communities spiegeln die Gesellschaften wider, in denen sie existieren. Positive Handlungen sind unerlässlich, um den vielen Formen von Ungleichheit und Machtmissbrauch in der Gesellschaft entgegenzuwirken.
+Wenn du Personen begegnest, die sich viel Mühe geben, unsere Community einladend und freundlich zu gestalten und alle Teilnehmenden dazu anregt, sich voll einzubringen, würden wir gerne davon hören.
+
+Erwartetes Verhalten
+Beteilige dich authentisch und aktiv. Leiste damit deinen Beitrag zu einem gelungenen WordCamp Nürnberg.
+Verhalte dich rücksichts- und respektvoll in Wort und Tat.
+Bemühe dich um Zusammenarbeit, damit du Konflikte von Anfang an vermeiden kannst.
+Nimm Abstand von erniedrigender, diskriminierender oder belästigender Sprache und Verhalten.
+Achte auf deine Umgebung und die anderen Teilnehmenden. Mache die Veranstaltenden oder andere Anwesende darauf aufmerksam, wenn du eine gefährliche Situation, jemanden in Bedrängnis oder Verletzungen dieses Verhaltenskodexes bemerkst, selbst wenn sie zunächst belanglos erscheinen.
+
+Inakzeptables Verhalten
+Inakzeptable Verhaltensweisen beinhalten: Einschüchterung, Belästigung, beleidigende, diskriminierende, abwertende oder erniedrigende Sprache und Verhalten durch jegliche Teilnehmenden während des WordCamps. Dies gilt online, auf allen zugehörigen Veranstaltungen und in persönlichen Gesprächen im Rahmen unserer Community.
+Belästigung beinhaltet: Verletzende oder abwertende mündliche oder schriftliche Kommentare in Bezug auf Geschlecht, sexuelle Orientierung, Abstammung, Religion, Behinderung; unangemessene Verwendung von Nacktheit und/oder sexuellem Bildmaterial an öffentlichen Orten (inklusive Präsentationsslides); absichtliche Einschüchterung, Stalking oder Nachlaufen; belästigendes Fotografieren oder Filmen; ständige Unterbrechung von Vorträgen oder anderen Events; unangemessener Körperkontakt und unerwünschte sexuelle Zuwendung.
+
+Folgen von inakzeptablem Verhalten
+Inakzeptables Verhalten jeglicher Community-Mitglieder, einschließlich Sponsoren, Speaker, Volunteers, OrgaTeam und Personal des Veranstaltungsortes, wird nicht toleriert.
+Wird das Unterlassen inakzeptablen Verhaltens verlangt, ist dem augenblicklich Folge zu leisten.
+Wenn ein Community-Mitglied sich auf inakzeptable Art und Weise verhält, steht es den Veranstaltenden zu, jegliche ihnen angemessen erscheinende Maßnahme zu ergreifen, bis einschließlich einem befristeten oder permanenten Ausschluss von der Veranstaltung ohne Warnung und ohne Rückerstattung von Kosten.
+
+Wenn du inakzeptables Verhalten erlebst
+Wenn du von inakzeptablem Verhalten betroffen bist, dieses beobachtest oder andere Anliegen hast, teile dies bitte so bald wie möglich eine Organisator oder einem Volunteer, der dir eine Kontakt zum OrgaTeam herstellt, des WordCamps Nürnberg mit. Du erkennst das OrgaTeam und die Volunteers an ihren andersfarbigen WordCamp Nürnberg T-Shirts.
+Zusätzlich stehen die Veranstaltenden zur Verfügung, um Community-Mitgliedern dabei zu helfen, mit den lokalen Ordnungs- und/oder Strafverfolgungskräften in Kontakt zu treten als auch ihr Sicherheitsgefühl anderweitig wieder herzustellen.
+Eine Meldung kann auch über das unten angefügte Kontaktformular erfolgen.
+
+Behandlung von Beschwerden
+Wenn du dich zu Unrecht oder auf ungerechte Art und Weise beschuldigt fühlst, diesen Verhaltenskodex verletzt zu haben, wende dich bitte mit einer genauen Beschreibung deiner Beschwerde an das OrgaTeam des WordCamp Nürnberg. Deine Beschwerde wird sorgfältig geprüft und behandelt werden.
+Geltungsbereich
+Wir erwarten, dass sich alle Teilnehmenden des WordCamps Nürnberg an jedweden Veranstaltungsorten des WordCamp Nürnberg - online und offline - sowie in allen persönlichen Gesprächen im Rahmen des WordCamp Nürnberg an diesen Verhaltenskodex halten.
+
+
+
+
+Verhaltenskodex WordCamp von WordPress Foundation ist lizenziert unter einer Creative Commons Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International Lizenz.
+Beruht auf dem Werk unter https://plan.wordcamp.org/code-of-conduct/ und http://berlincodeofconduct.org/de/ .
+
+
